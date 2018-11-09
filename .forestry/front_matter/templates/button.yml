@@ -1,0 +1,15 @@
+---
+label: button
+hide_body: false
+is_partial: true
+fields:
+- type: field_group
+  name: cta
+  label: call-to-action
+  fields:
+  - type: text
+    label: button-text
+    name: button-text
+  - type: text
+    name: url
+    label: URL
