@@ -1,9 +1,0 @@
----
-label: hero-modified
-hide_body: false
-is_partial: true
-fields:
-- type: include
-  name: hero-with-button
-  label: hero-with-button
-  template: navigation-header-w-button

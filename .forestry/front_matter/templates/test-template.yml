@@ -1,8 +1,0 @@
----
-label: Test-template
-hide_body: false
-is_partial: true
-fields:
-- type: field_group
-  name: image-test
-  label: image
