@@ -34,5 +34,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- index.md
 - homepage-copy.md
+- index.md
