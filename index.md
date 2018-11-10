@@ -39,7 +39,7 @@ page_sections:
   media_alignment: Right
   headline: DevOps tool chain
   media:
-    image: "/uploads/2018/11/06/BuildPipeline.PNG"
+    image: "/uploads/2018/11/10/BuildPipeline300.PNG"
   content: A detailed view of the DevOps tool chain is shown the picture on the right.
 - template: full-width-media-element
   block: media-1
