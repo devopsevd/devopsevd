@@ -67,8 +67,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Triggering the build
-  content: <p><img src="/uploads/2018/11/06/Triggering_Build_short_youtube.PNG"></p><p>This
-    video shows how the build can be triggered. Watch the steps on <a href="https://www.youtube.com/watch?v=H_Zm5bcTPdE"
+  content: <p><img src="/uploads/2018/11/10/build.png"></p><p>This video shows how
+    the build can be triggered. Watch the steps on <a href="https://www.youtube.com/watch?v=H_Zm5bcTPdE"
     title="Triggering Build">Youtube</a>.</p>
 - template: detail-content
   block: text-1
