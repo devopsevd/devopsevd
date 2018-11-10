@@ -61,10 +61,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Setup tool chain with Terraform script
-  content: <p><img src="/uploads/2018/11/08/Terraform_setup_script.PNG"></p><p>You
-    can quickly get started with the aws setup using the terraform script. Watch the
-    steps on <a href="https://www.youtube.com/watch?v=aSHYQGxRGTI" title="Terraform
-    setup script">Youtube</a>.</p>
+  content: <p><img src="/uploads/2018/11/10/setup.png"></p><p>You can quickly get
+    started with the aws setup using the terraform script. Watch the steps on <a href="https://www.youtube.com/watch?v=aSHYQGxRGTI"
+    title="Terraform setup script">Youtube</a>.</p>
 - template: detail-content
   block: text-1
   headline: Triggering the build
