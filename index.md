@@ -6,7 +6,7 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: Just a few steps to get started with a fully configured source-to-production
-    DevOps tool chain.
+    DevOps tool chain. Welcome.
 - template: content-feature
   block: feature-1
   media_alignment: Right
