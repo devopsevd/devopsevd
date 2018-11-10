@@ -91,8 +91,8 @@ page_sections:
     Deployment">Youtube</a>.</p>
 - template: detail-content
   block: text-1
-  content: <p><img src="/uploads/2018/11/08/Terraform_teardown_script.PNG"></p><p>This
-    video shows how to tear down the tools. Watch the steps on <a href="https://youtu.be/9fZwO2QX6C8"
+  content: <p><img src="/uploads/2018/11/10/teardown.png"></p><p>This video shows
+    how to tear down the tools. Watch the steps on <a href="https://youtu.be/9fZwO2QX6C8"
     title="Terraform tear down script">Youtube</a>.</p>
   headline: Tear down
 - template: simple-footer
