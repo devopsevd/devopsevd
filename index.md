@@ -73,8 +73,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: DBA interactions
-  content: <p><img src="/uploads/2018/11/06/DBA_Interactions_youtube.PNG"></p><p>The
-    video shows the role of DBA. Watch it on <a href="https://www.youtube.com/watch?v=M435ndGY1WY&amp;t=11s"
+  content: <p><img src="/uploads/2018/11/10/DBA.png"></p><p>The video shows the role
+    of DBA. Watch it on <a href="https://www.youtube.com/watch?v=M435ndGY1WY&amp;t=11s"
     title="DBA interactions">Youtube</a>.</p>
 - template: detail-content
   block: text-1
