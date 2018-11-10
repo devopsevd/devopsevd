@@ -68,8 +68,8 @@ page_sections:
   block: text-1
   headline: Triggering the build
   content: <p><img src="/uploads/2018/11/10/build.png"></p><p>This video shows how
-    the build can be triggered. Watch the steps on <a href="https://www.youtube.com/watch?v=H_Zm5bcTPdE"
-    title="Triggering Build">Youtube</a>.</p>
+    the build can be triggered. Watch the steps on <a href="https://www.youtube.com/watch?v=_S3fsZcBe6U"
+    title="Trigger build">Youtube</a>.</p>
 - template: detail-content
   block: text-1
   headline: DBA interactions
