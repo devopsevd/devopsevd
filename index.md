@@ -79,8 +79,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Test data management
-  content: <p><img src="/uploads/2018/11/08/Test_data_management.PNG"></p><p>The video
-    shows the test data management steps. Watch the steps on <a href="https://www.youtube.com/watch?v=alU8F2QtGGk"
+  content: <p><img src="/uploads/2018/11/10/testing.png"></p><p>The video shows the
+    test data management steps. Watch the steps on <a href="https://www.youtube.com/watch?v=alU8F2QtGGk"
     title="Test data management">Youtube</a>.</p>
 - template: detail-content
   block: text-1
