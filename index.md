@@ -85,10 +85,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Rolling deployment
-  content: <p><img src="/uploads/2018/11/06/Rolling_deployments_youtube.PNG"></p><p>This
-    video shows how the rolling deployment is used to ensure zero down time during
-    deployment. Watch the steps on <a href="https://www.youtube.com/watch?v=8jbBpi5Uzec"
-    title="Rolling Deployment">Youtube</a>.</p>
+  content: <p><img src="/uploads/2018/11/10/Rolling.png"></p><p>This video shows how
+    the rolling deployment is used to ensure zero down time during deployment. Watch
+    the steps on <a href="https://www.youtube.com/watch?v=8jbBpi5Uzec" title="Rolling
+    Deployment">Youtube</a>.</p>
 - template: detail-content
   block: text-1
   content: <p><img src="/uploads/2018/11/08/Terraform_teardown_script.PNG"></p><p>This
