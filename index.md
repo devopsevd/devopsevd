@@ -48,8 +48,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>Get started</strong>"
-  content: Terraform script for setup is available on request. Please reach out to
-    our team for more information.
+  content: Terraform script for setup is available on request. <br>Please reach out
+    to our team for more information.
   media:
     image: ''
 - template: detail-content
